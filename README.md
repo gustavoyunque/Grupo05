@@ -1,8 +1,7 @@
-# Mi primer proyecto en GitHub
-Este es un proyecto de práctica para aprender a usar Git y GitHub.
-## Objetivos
-- Aprender a manejar un sistema de control de versiones de manera colaborativa.
-- Entender el flujo de trabajo básico con Git.
-## Temas
-- Git
-- GitHub
+INTEGRANTES DEL GRUPO:
+
+1- GUSTAVO ALONSO YUNQUE QUISPE
+2- LEONARDO GUSTAVO CCORYMANYA 
+3- JAFET MARTIN LLAVE AGUILAR
+4- FABIAN ANDRE ALVAREZ LLAVE 
+5- ROYDAN ARTEMIO APAZA ANAHUA
