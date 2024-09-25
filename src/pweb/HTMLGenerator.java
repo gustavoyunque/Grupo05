@@ -15,9 +15,10 @@ public class HTMLGenerator {
         return "<h" + level + ">" + header + "</h" + level + ">";
     }
 
-    //párrafo
-    public String createParagraph(String text) {
-        return "";
+	public String createParagraph() {
+        String text = "Nosotros somos el grupo 05 y hemos usado Git para poder hacer pull y push según corresponda. "
+                    + "De esta manera podemos tener un mejor control de versiones al momento de hacer proyectos en grupo.";
+        return "<p>" + text + "</p>";
     }
 
     //(hipervínculo)
