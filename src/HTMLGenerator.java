@@ -1,3 +1,4 @@
+package pweb;
 public class HTMLGenerator {
 
  
